@@ -4,7 +4,7 @@
 
 Passionate and Philomath professional having over 10 years of experience of Market Research Ecosystem, from designing research, questionnaire preparation, data analytics to polished reports turning business questions into actionable insights. 
 Enthusiastic about the data driven storytelling backed with exploratory and predictive analytics, with demonstrated skillset in project and team management along with concise and effective communication. 
-Specialities: Quantitative Research, SPSS, R,PowerBI
+Specialities: Quantitative Research, SPSS,PowerBI, Python,SQL
 Key Account Management
 Primary & Secondary Research
 PC(Personal Computers),Automotive ,FMCG 
